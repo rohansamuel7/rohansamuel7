@@ -1,8 +1,8 @@
 ## Hi, I'm Rohan - an aspiring Data Scientist 
 
 - Data Science undergraduate at Penn State University<br/>
-- Research and industry expertise through internships in business intelligence and data analysis, and research on detecting disinformation, privacy, and security in social media using NLP and machine learning<br/>
-- Passion to leverage data-driven solutions for real-world challenges<br/>
+- Applied machine learning and NLP experience across industry internships and academic research<br/>
+- Focused on building practical, interpretable AI/ML solutions for complex, real-world use cases<br/>
 
 
 ## 🌐 Socials:
