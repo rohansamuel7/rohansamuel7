@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rohan, a Penn State Senior working towards becoming an AI/ML engineer. Through projects & internships I've focus on building, shipping, and scaling AI products & platforms. I'm passion around the realms of AI/ML, Data Science, & Software/Data Engineering. 
+Hi, I'm Rohan, a Penn State Senior working towards becoming an AI/ML engineer. Through projects & internships I've focused on building, shipping, and scaling AI products & platforms. I'm passion around the realms of AI/ML, Data Science, & Software/Data Engineering. 
 
 
 ## 🌐 Socials:
